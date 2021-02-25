@@ -1,0 +1,6 @@
+# The format of a command line is:
+#    "command to start"
+#       associated key
+
+"xdotool click 2"
+Release+b:9
